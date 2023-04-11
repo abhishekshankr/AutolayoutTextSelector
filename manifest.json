@@ -1,0 +1,11 @@
+{
+  "name": "Autolayout Text Selector",
+  "id": "1225639605131546205",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
